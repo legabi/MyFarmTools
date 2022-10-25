@@ -1,0 +1,8 @@
+name: MyFarmTools
+version: '${project.version}'
+main: legabi.myfarmtools.MyFarmTools
+api-version: 1.19
+prefix: MFT
+authors: [ le_gabi ]
+description: Easy to add a raduis to hoe
+website: https://myplugins.dev
